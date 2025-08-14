@@ -25,3 +25,4 @@ website:
       - "virtualbox.ipynb"
       - "package.ipynb"
       - "build.ipynb"
+      - "systemd.ipynb"
