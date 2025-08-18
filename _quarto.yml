@@ -26,3 +26,4 @@ website:
       - "package.ipynb"
       - "build.ipynb"
       - "systemd.ipynb"
+      - "auditd.ipynb"
